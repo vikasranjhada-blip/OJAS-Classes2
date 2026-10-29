@@ -1,0 +1,6 @@
+{
+  "name": "OJAS Classes - Online Coaching Platform",
+  "description": "Professional Indian edtech coaching dashboard for OJAS Classes - managing students, batches, courses, live classes, question banks, and study material orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
